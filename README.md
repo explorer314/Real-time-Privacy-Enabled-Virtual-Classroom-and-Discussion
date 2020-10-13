@@ -19,7 +19,7 @@ source <openvino_installed_dir>/bin/setupvars.sh
 ## Download pre-trained models - [openvino models with precision fp32, fp16 and int8](https://download.01.org/opencv/2020/openvinotoolkit/2020.1/open_model_zoo/models_bin/1/instance-segmentation-security-0083/)
 
 
-## Clone this repository 
+## Clone this [repository](https://github.com/explorer314/Real-time-Privacy-Enabled-Virtual-Classroom-and-Discussion) 
 	
 ## Running
 
