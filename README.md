@@ -88,6 +88,6 @@ Options:
 
 ```
 
-# [commands to execute Background blur, removal and customization]() 
+# [commands to execute Background blur, removal and customization](https://github.com/explorer314/Real-time-Privacy-Enabled-Virtual-Classroom-and-Discussion/blob/master/demo/features_execution_commands.md) 
 
 # Demo results - 
